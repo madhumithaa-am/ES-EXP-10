@@ -174,11 +174,8 @@ while True:
 ```
 
 # Observation
-# Temperature is high:
-<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/ef395c40-8375-433c-856f-b45c0a172ec1" />
+<img width="1414" height="1470" alt="image" src="https://github.com/user-attachments/assets/10331f8b-4d97-4f5c-91cf-71acb8bd6df5" />
 
-# Temperature is low:
-<img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/72b954a6-daf8-479c-95f7-3099205293a4" />
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a0b4ad27-2ee9-4f63-843e-d510ac2cd12a" />
 
