@@ -180,6 +180,9 @@ while True:
 # Temperature is low:
 <img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/72b954a6-daf8-479c-95f7-3099205293a4" />
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a0b4ad27-2ee9-4f63-843e-d510ac2cd12a" />
+
+
 
 # Result
 
